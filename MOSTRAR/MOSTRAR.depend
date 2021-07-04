@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1624503764 source:c:\users\leane\documents\mostrar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TESTE.h"
+
+1624503666 c:\users\leane\documents\mostrar\teste.c
+	<stdio.h>
+
+1624503666 source:c:\users\leane\documents\mostrar\teste.c
+	<stdio.h>
+
+1624503764 c:\users\leane\documents\mostrar\teste.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622059322 source:c:\users\leane\documents\funcoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

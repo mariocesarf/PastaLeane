@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1625003533 source:c:\users\leane\documents\trabalho_primeira_etapa\dependente.c
+	<stdio.h>
+	<string.h>
+	"dependente.h"
+	"funcionario.h"
+
+1625003534 c:\users\leane\documents\trabalho_primeira_etapa\dependente.h
+
+1625003533 c:\users\leane\documents\trabalho_primeira_etapa\funcionario.h
+
+1625080784 source:c:\users\leane\documents\trabalho_primeira_etapa\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionario.h"
+
+1625003533 source:c:\users\leane\documents\trabalho_primeira_etapa\main.c
+	<stdio.h>
+	"funcionario.h"
+	"dependente.h"
+

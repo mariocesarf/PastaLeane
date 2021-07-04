@@ -1,0 +1,16 @@
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.csprojAssemblyReference.cache
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.AssemblyInfoInputs.cache
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.AssemblyInfo.cs
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.csproj.CoreCompileInputs.cache
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.exe
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.deps.json
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.runtimeconfig.json
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.runtimeconfig.dev.json
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.dll
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\ref\projetoscsharp.dll
+C:\Users\Leane\Documents\projetoscsharp\bin\Debug\net5.0\projetoscsharp.pdb
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.dll
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\ref\projetoscsharp.dll
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.pdb
+C:\Users\Leane\Documents\projetoscsharp\obj\Debug\net5.0\projetoscsharp.genruntimeconfig.cache

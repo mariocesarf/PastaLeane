@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622675053 source:c:\users\leane\documents\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+
+1622592200 c:\users\leane\documents\struct\clientes.c
+	<stdio.h>
+
+1622675016 source:c:\users\leane\documents\struct\clientes.c
+	<stdio.h>
+	<string.h>
+	"clientes.h"
+
+1622675771 c:\users\leane\documents\struct\clientes.h
+

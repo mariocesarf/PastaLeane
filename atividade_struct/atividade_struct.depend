@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622682724 source:c:\users\leane\documents\atividade_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

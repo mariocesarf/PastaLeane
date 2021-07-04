@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1624400962 source:c:\users\leane\documents\trabalho ip\funcionarios\dependente.c
+	<string.h>
+	"dependente.h"
+	"funcionario.h"
+
+1624400962 c:\users\leane\documents\trabalho ip\funcionarios\dependente.h
+
+1624929066 c:\users\leane\documents\trabalho ip\funcionarios\funcionario.h
+
+1624929066 source:c:\users\leane\documents\trabalho ip\funcionarios\main.c
+	<stdio.h>
+	"funcionario.h"
+	"dependente.h"
+
+1624930870 source:c:\users\leane\documents\trabalho ip\funcionarios\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionario.h"
+
